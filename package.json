@@ -1,0 +1,23 @@
+{
+  "name": "tryuself",
+  "version": "1.0.0",
+  "description": "For test only purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open" : "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alv1992"
+  },
+  "keywords": [
+    "test",
+    "playground"
+  ],
+  "author": "Alvaro Alves",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
